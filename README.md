@@ -11,3 +11,8 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=losbagros&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
+
+### Our code 👌
+<p align='center'>
+    <img src="/images/our_code.jpg">
+</p>
