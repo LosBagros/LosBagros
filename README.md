@@ -1,6 +1,6 @@
 
 
-### Hey 👋, I'm [Los_Bagros](https://losbagros.eu)
+### Hey 👋, I'm [Bagros](https://bagros.eu)
 
 
 <p align='center'>
