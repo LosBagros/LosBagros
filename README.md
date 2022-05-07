@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-    <a href="https://losbagros.eu"><img src="https://img.shields.io/website?label=losbagros.eu&style=for-the-badge&url=https%3A%2F%2Flosbagros.eu"></a>
+    <a href="https://bagros.eu"><img src="https://img.shields.io/website?label=losbagros.eu&style=for-the-badge&url=https%3A%2F%2Fbagros.eu"></a>
     <a href="https://discord.bio/p/losbagros"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
