@@ -1,7 +1,7 @@
 
 <h1 align='center'><a href="https://bagros.eu">Bagros</a> gaming</h1>
 
-All roads lead to [127.0.0.1](127.0.0.1)
+All roads lead to [127.0.0.1](http://127.0.0.1/)
 
 <p align='center'>
     <a href="https://bagros.eu"><img src="https://img.shields.io/website?label=bagros.eu&style=for-the-badge&url=https%3A%2F%2Fbagros.eu"></a>
